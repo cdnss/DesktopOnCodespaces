@@ -1,5 +1,5 @@
-git clone https://git.mollomm1.dev/Mollomm1/DesktopOnCodespaces
-cd DesktopOnCodespaces
+#git clone https://git.mollomm1.dev/Mollomm1/DesktopOnCodespaces
+#cd DesktopOnCodespaces
 pip install textual
 sleep 2
 python3 installer.py
